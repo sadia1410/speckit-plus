@@ -21,5 +21,5 @@ This section covers the fundamentals of ROS 2, the robotic nervous system, focus
 - [ ] Launch files bring up the stack reliably with parameter overrides.
 
 :::tip Author
-**Najaf Ali** — founder of [najafai.com](https://najafai.com). Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
+**Sadia Asif** — Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
 :::
