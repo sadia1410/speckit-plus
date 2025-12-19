@@ -21,5 +21,5 @@ This section introduces the foundational concepts of Physical AI and embodied in
 - [ ] Team can explain how sensor data flows into perception and control loops.
 
 :::tip Author
-**Najaf Ali** — founder of [najafai.com](https://najafai.com). Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
+**Sadia Asif** — Author of this textbook and curator of the Physical AI & Humanoid Robotics program.
 :::
